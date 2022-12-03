@@ -1,5 +1,4 @@
 
-[![MasterHead]("https://csshint.com/wp-content/uploads/2020/01/CSS-Animated-Backgrounds.gif")
 <h1 align="center">Hi 👋, I'm Varsha Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
