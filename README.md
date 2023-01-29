@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Campus Clan**
 
-- 🌱 I’m currently learning **NestJs**
+- 🌱 I’m currently learning **React **
 
 - 💬 Ask me about **Java, Frontend Development**
 
