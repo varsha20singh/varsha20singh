@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Web Development andJava**
+- 💬 Ask me about **Web Development and Java**
 
 - 📫 How to reach me **https://www.linkedin.com/in/develop16code/**
 
